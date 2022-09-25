@@ -1,6 +1,6 @@
-line-bot-sdk 
-bs4 
-flask 
+line-bot-sdk==2.3.0
+bs4==4.11.1
+flask==2.1.2
 pymongo 
 datetime 
 pandas 
