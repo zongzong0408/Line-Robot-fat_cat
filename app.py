@@ -5,9 +5,9 @@ from linebot.models import *
 
 import os
 
-API = "1z/vjWAX0dcEXGP29xQ43Xcr60RHlQjjEDKWNcAONdzwnTYFabgHoJX1ZJC6EDZ04QLc6Azf2HxnQgbGJstU2n9LSMZf6s1iGSY7enqKeo4CZSpV72zaU0VdGTdTD1kRl9vp+Utti3jCIuW+iUgATAdB04t89/1O/w1cDnyilFU="
-SECRET = "bf22c97b07a9cc7e3134b23e52c21a58"
-USER_ID = "Ued51038c26c9278c4789676bfe2eb215"
+API = ""
+SECRET = ""
+USER_ID = ""
 
 app = Flask(__name__)
 
